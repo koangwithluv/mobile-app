@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_fonts/google_fonts.dart';
 import 'package:hooks_riverpod/hooks_riverpod.dart';
-
 import '../game_logic/check_result.dart';
 import '../game_logic/minimax.dart';
 import '../model/history_hive_model.dart';
