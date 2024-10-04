@@ -1,6 +1,6 @@
 analyzer:
   errors:
-    depend_on_referenced_packages: ignore ignore
+    depend_on_referenced_packages: ignore ignore ignore
 include: package:flutter_lints/flutter.yaml
 
 linter:
